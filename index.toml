@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".nojekyll"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "index.html"
+hash = "ca09418999f3abcdd69c953d485a0de918f4cec627cbdc664216a43404653f98"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
 metafile = true
@@ -53,6 +61,11 @@ metafile = true
 [[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "9562d0b0000bfe4fbed3555b73644d21cfc1a09c65db6a9a64162d59a3a58395"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "ded07d2b51024525ed8d68ca99903d77334332b1776157f62df23ef2bd18d21b"
 metafile = true
 
 [[files]]

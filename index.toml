@@ -222,3 +222,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "d623bb2b64ebdfdb20c1d43e10ccf4e8a9dd4efe8a284ab811dc66dc4ccbd734"
 metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "7fda14c202dc4275ab56882fe54ec7d1c9a08c0050a697c5e3c9be10470a631a"

@@ -1,0 +1,211 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
+metafile = true
+
+[[files]]
+file = "mods/archers.pw.toml"
+hash = "0ab8358f44851257a81bc6657760319fdb187bb0bbf5cf7d7aae1abe02a060f8"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "753942de18dbd1681d5568a796e8a7b4e9057f2c74eb3630e685b1227245d03e"
+metafile = true
+
+[[files]]
+file = "mods/armor-model-api.pw.toml"
+hash = "f56075a4259249a73dc8560041e347063036cc0f98319ea3aa9e934f726c123b"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "8faab99e31df5052ea3a765479a12d1f34cd450ef69ba5fc4390590e36a645f1"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "270675632e20b3f27d79a4633356fac3b2bf7335aa250a7894f53a4490e61b29"
+metafile = true
+
+[[files]]
+file = "mods/bundle-api.pw.toml"
+hash = "c66401ab1422b76e4c03e29536dff69ab50f752017568c47a2b345a32e0cd049"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
+metafile = true
+
+[[files]]
+file = "mods/combat-roll.pw.toml"
+hash = "243a6237a954d35af746fe1fcec183721e7c54e5a0146977d8e7f99b95919078"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "8ec1210d61eea96f363b7b4147b1e3faf60ac811fcb836c727a5273e1f1667bd"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "9562d0b0000bfe4fbed3555b73644d21cfc1a09c65db6a9a64162d59a3a58395"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "46c13077e518b312d993a6853c3cd046b724cfc48664481ec0b651ed308aa292"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
+metafile = true
+
+[[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "ff388c8a06dc48abd466c2458dba41990b31e01ceca827c04bc9892f600aab87"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "26c531f5311fb844099cde7a56e46a9641dcb57e73dc340d3297aee539c08287"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "31d9aec9490ee7a7d84ab1e505be06021b1cc5eae48a68622464bda7b05cda3d"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "6a34c0b44a9f0a4ebbb04ae8af6cf86c2fce28353935226852d439c14e635f33"
+metafile = true
+
+[[files]]
+file = "mods/leawind-third-person.pw.toml"
+hash = "66c8630f1086e5bd1b9e1ecbfd4ae460d17b0f31a3d3fb558536e236ea65c57c"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "05678a838dd14b443d81c8a03353ceab01b21c8525d1693b34f4d2ab864c98de"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "9d031aefb9acf62b4c7c6b6f53d4427db1996de071895c06d921c2977c7d7e48"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "89fcae9fccf6aec59355405e1160ed15d523c34e08e555a0da6f46fb8a5087fe"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "a5f46416531a8dad415baa2e492ce932ec30db86c328d6f30b450f07ea41e50f"
+metafile = true
+
+[[files]]
+file = "mods/perspective-api.pw.toml"
+hash = "2a66f40dbb88bb8b93add7c8f9b02865db1819a7d7fc237c52f621375d44ded8"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "d20369e5848ca31ecbb49bae22e953439173bd4617ca239b23335366b2a6a0e9"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "ff88fba2579ed45a64e7df5aed3a3fceb88c62cdd1fba5cca9dbf3b2ec07ba25"
+metafile = true
+
+[[files]]
+file = "mods/punchy-fpa.pw.toml"
+hash = "f3f9a2d87e44de7c3ebd359bcd03c74961ff0c1b8a4cd34cd5760217bc1caaf1"
+metafile = true
+
+[[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "a4d90a2ee00783ea4e15b08d45550a99d4fdfbb27831466b04736b976e804ac6"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "48f2b92cfa53cf05268d977c6cae642549e97c5f460571f0f2718675706a7166"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "58ad6557713aee1971660e47d607f2ad64017d80357b1e9a986270de93162bc0"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "2aea2968c0302317b824a4f3c6d6863aba3da5aa275a4b098c0abe0fff5d8493"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6b68ddb23f1306e5f73e89d48e7bea8bf97eb136721b9b6cd57f235dac01e97b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "ee002e5d6ad62150afe62bf8a6f254f56630e2ae9d414131f89cf2676664a493"
+metafile = true
+
+[[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "68d8387b4736d523f234c3c0318fdfc0484f06144abcb1d6077010e06d2af8d9"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "428ff70ca5b64731511b46304ce7182e3645ed0c30cd73a45f9189f45d1770b3"
+metafile = true
+
+[[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "d5aa81c99d5b482731b04e51ca84a7d3bb5d559ef12b7d1e60d4a17e5476f3a3"
+metafile = true
+
+[[files]]
+file = "mods/third-person-nametags.pw.toml"
+hash = "e1622158bc6cba45633f47744524a64f014038984fe489b89c228549c5ed4ef9"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-updated.pw.toml"
+hash = "13efeaae28974566603bf087728ca84f652c9e557a4c2c4574b21edab4defb32"
+metafile = true
+
+[[files]]
+file = "mods/whoami.pw.toml"
+hash = "c846f1bdd692e3bcc4bc739c25d98dd5ad939371fec06feba31547735d79b3ee"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "7f18bebd0a56a60ce6e57adc32828193a41271095c1362aea2c7a4a30969afb5"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "5df9067a60471de05776a57d2b77a40436b635904271d9556ef73c81decd56f5"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "568c2b12cadae2518cd83506a96e023e06552ff99d35322f6cb85f755f187686"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "d623bb2b64ebdfdb20c1d43e10ccf4e8a9dd4efe8a284ab811dc66dc4ccbd734"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Melon SMP"
+author = "Melon"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bea0122cfbed20a39f799edd9ed0a4d1493245b01102a9b77999695f8a2553ec"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.1.2"

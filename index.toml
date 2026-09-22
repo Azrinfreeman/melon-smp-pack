@@ -9,6 +9,11 @@ file = "index.html"
 hash = "ca09418999f3abcdd69c953d485a0de918f4cec627cbdc664216a43404653f98"
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "97280c6f029ca84101dc38eb6bafbb7e615e3e0780bc766e0848b2eb0b577202"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "785e74169e884a0535517140796a8448a831abf7f7dfa29cf6326b178c0dcf48"
 metafile = true
@@ -26,6 +31,11 @@ metafile = true
 [[files]]
 file = "mods/armor-model-api.pw.toml"
 hash = "f56075a4259249a73dc8560041e347063036cc0f98319ea3aa9e934f726c123b"
+metafile = true
+
+[[files]]
+file = "mods/audio-improvements.pw.toml"
+hash = "8654d871a806cfc2f7b1dbcac36a00d8e3184e2cfa9b80f84fe270bdd18991ba"
 metafile = true
 
 [[files]]
@@ -59,6 +69,11 @@ hash = "8ec1210d61eea96f363b7b4147b1e3faf60ac811fcb836c727a5273e1f1667bd"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "cab944a3439623906d9f24c12a77aa7209e8f730544179844222e72d9976ea78"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "9562d0b0000bfe4fbed3555b73644d21cfc1a09c65db6a9a64162d59a3a58395"
 metafile = true
@@ -81,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/first-person-model.pw.toml"
 hash = "ff388c8a06dc48abd466c2458dba41990b31e01ceca827c04bc9892f600aab87"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
 metafile = true
 
 [[files]]
@@ -119,6 +139,16 @@ hash = "89fcae9fccf6aec59355405e1160ed15d523c34e08e555a0da6f46fb8a5087fe"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "004254326f5a57db0fd9f088c8ec06afb2e25eeaa86a0370ee7a3fdc42346719"
+metafile = true
+
+[[files]]
+file = "mods/music-and-melody.pw.toml"
+hash = "b4ae47af262d26b31c4d39ad29f9261c817d41ee41fedbefeea5c4d3cde176ba"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "a5f46416531a8dad415baa2e492ce932ec30db86c328d6f30b450f07ea41e50f"
 metafile = true
@@ -136,6 +166,11 @@ metafile = true
 [[files]]
 file = "mods/player-animation-library.pw.toml"
 hash = "ff88fba2579ed45a64e7df5aed3a3fceb88c62cdd1fba5cca9dbf3b2ec07ba25"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "8c272ec6b1bd2c3b526920d224af6b769d5fc03c473fb721e50e7481a6d094e2"
 metafile = true
 
 [[files]]
@@ -164,6 +199,11 @@ hash = "2aea2968c0302317b824a4f3c6d6863aba3da5aa275a4b098c0abe0fff5d8493"
 metafile = true
 
 [[files]]
+file = "mods/simple-music-control.pw.toml"
+hash = "13ca8cd27f0ff29a00a18dd4cbde821378f5f94f4fee0d6cf5999194a0cb802e"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "6b68ddb23f1306e5f73e89d48e7bea8bf97eb136721b9b6cd57f235dac01e97b"
 metafile = true
@@ -171,6 +211,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ee002e5d6ad62150afe62bf8a6f254f56630e2ae9d414131f89cf2676664a493"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "7560a0a8d7737d587fc2e3484e5573a743988549c2ce5f24746f8ea816cad5c9"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "66571145e5168820a3823431cd1a3e850a81040184067303868d3fa7cc572c03"
 metafile = true
 
 [[files]]
@@ -196,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets-updated.pw.toml"
 hash = "13efeaae28974566603bf087728ca84f652c9e557a4c2c4574b21edab4defb32"
+metafile = true
+
+[[files]]
+file = "mods/unified-api.pw.toml"
+hash = "d6806fbdde1cfbbb09a931b671b80d474dea3afa6321ba1651141f6dcd0bfb7a"
 metafile = true
 
 [[files]]

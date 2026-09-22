@@ -1,0 +1,13 @@
+name = "Audio Improvements"
+filename = "Audio Improvements v2.0.1 (Fabric 26.1.2).jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/UPd4RNCU/versions/gSv9xTop/Audio%20Improvements%20v2.0.1%20%28Fabric%2026.1.2%29.jar"
+hash-format = "sha512"
+hash = "ce4608c707b8c2bcb4b7832fbc5e83639588561572e7ab62697dbe3b51b640a8a2656b4aa191a3780377fecc32bdffd22b6a1f022a2dd5090ac5f96bf27ba1b4"
+
+[update]
+[update.modrinth]
+mod-id = "UPd4RNCU"
+version = "gSv9xTop"

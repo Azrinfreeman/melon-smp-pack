@@ -1,0 +1,13 @@
+name = "Simple Music Control"
+filename = "simple_music_control-fabric-1.5.3+26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/8AX2hHnX/versions/uR7WeU5U/simple_music_control-fabric-1.5.3%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "94c591ddc7a465d56e3f9720d2a16f0ab1edc958ce7dc8ef3caa6ed5bc63e5832a542acfbee10fd8a8fcae81c188ef9bdad85e15e3cedfcd9b790ade8300bfe1"
+
+[update]
+[update.modrinth]
+mod-id = "8AX2hHnX"
+version = "uR7WeU5U"

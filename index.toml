@@ -154,6 +154,11 @@ hash = "a5f46416531a8dad415baa2e492ce932ec30db86c328d6f30b450f07ea41e50f"
 metafile = true
 
 [[files]]
+file = "mods/otterlib.pw.toml"
+hash = "ea34cff386c800a419cdb84ce8cac4aa41ca9a193675df3746cd4e16cce3c370"
+metafile = true
+
+[[files]]
 file = "mods/perspective-api.pw.toml"
 hash = "2a66f40dbb88bb8b93add7c8f9b02865db1819a7d7fc237c52f621375d44ded8"
 metafile = true
@@ -206,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "6b68ddb23f1306e5f73e89d48e7bea8bf97eb136721b9b6cd57f235dac01e97b"
+metafile = true
+
+[[files]]
+file = "mods/sit!.pw.toml"
+hash = "aa1e0f285c6ff8e7a72f6e48789606112a0d030d80ae33242e5470ccbfe9f257"
 metafile = true
 
 [[files]]

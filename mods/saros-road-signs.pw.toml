@@ -1,0 +1,13 @@
+name = "Saro´s Road Signs"
+filename = "Saros-Road-Signs-Fabric-26.1.2-4.16.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ba3uA4qP/versions/1ny8Sqmx/Saros-Road-Signs-Fabric-26.1.2-4.16.jar"
+hash-format = "sha512"
+hash = "363b1769198a3187cbec0f12162c1b96d3c5f5895217dd7c0d2b85223873880bf9c3627ee394f1a418816da8ca004b4f5cb0cf248b57f88ceedc5d448a0406b8"
+
+[update]
+[update.modrinth]
+mod-id = "Ba3uA4qP"
+version = "1ny8Sqmx"

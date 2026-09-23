@@ -194,6 +194,11 @@ hash = "48f2b92cfa53cf05268d977c6cae642549e97c5f460571f0f2718675706a7166"
 metafile = true
 
 [[files]]
+file = "mods/saros-road-signs.pw.toml"
+hash = "8c8850ad3533539e84d3e1815928c5e8fafd306191d072a49ab0ccceb23468e5"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "58ad6557713aee1971660e47d607f2ad64017d80357b1e9a986270de93162bc0"
 metafile = true

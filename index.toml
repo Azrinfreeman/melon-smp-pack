@@ -64,6 +64,11 @@ hash = "243a6237a954d35af746fe1fcec183721e7c54e5a0146977d8e7f99b95919078"
 metafile = true
 
 [[files]]
+file = "mods/computerpc.pw.toml"
+hash = "70e4a780e150fd1759a4206dd0b6143c4981880207b702d3d41028ede1f91bba"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "8ec1210d61eea96f363b7b4147b1e3faf60ac811fcb836c727a5273e1f1667bd"
 metafile = true

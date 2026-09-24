@@ -5,6 +5,22 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "ZOO_ADMISSION_GUARDS_IMPLEMENTATION.md"
+hash = "f5415919fb06af17f2c72bda2ee743e318e233867415e9cdac7d0d20bb110435"
+
+[[files]]
+file = "ZOO_IMPLEMENTATION.md"
+hash = "201066809c9ffe26101dec130c21f05e7efb6ac22d78021d675ee3d103dc91d9"
+
+[[files]]
+file = "ZOO_POLISH_IMPLEMENTATION.md"
+hash = "bcc0ba0a471b75b096f06829fda5e4da432ce534eab780add061c319a247ce5b"
+
+[[files]]
+file = "ZOO_ROAD_IMPLEMENTATION.md"
+hash = "a04ab71db9f091fa6c2dcc83d6b8457468b649af9e1cd81c4a805e082efcbe78"
+
+[[files]]
 file = "index.html"
 hash = "ca09418999f3abcdd69c953d485a0de918f4cec627cbdc664216a43404653f98"
 
@@ -190,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "48f2b92cfa53cf05268d977c6cae642549e97c5f460571f0f2718675706a7166"
+metafile = true
+
+[[files]]
+file = "mods/saros-road-blocks.pw.toml"
+hash = "829960739b3e6b55bbc4672b921e89d789e9ee62742f4950f5a948587cd7c0d5"
 metafile = true
 
 [[files]]

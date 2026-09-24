@@ -1,0 +1,13 @@
+name = "Saro´s Road Blocks"
+filename = "Saros-Road-Blocks-Fabric-26.1.2-5.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NnMIY8We/versions/6gmF18je/Saros-Road-Blocks-Fabric-26.1.2-5.12.jar"
+hash-format = "sha512"
+hash = "20b81756dfde1b74432e0bdad78d9aa1211ff19cd331f25668385ae2e7f84a636b188355aa789669b81f3ec54dfd4ea9e0c58a86a50629f6d9e6ad2893c6916d"
+
+[update]
+[update.modrinth]
+mod-id = "NnMIY8We"
+version = "6gmF18je"

@@ -25,6 +25,10 @@ file = "index.html"
 hash = "ca09418999f3abcdd69c953d485a0de918f4cec627cbdc664216a43404653f98"
 
 [[files]]
+file = "mods/Saros-Road-Blocks-Fabric-26.1.2-5.12.jar"
+hash = "40048b554219958a0d249782ef90c5b97aac657e6b9a7e483d1d681466209e20"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "97280c6f029ca84101dc38eb6bafbb7e615e3e0780bc766e0848b2eb0b577202"
 metafile = true
@@ -206,11 +210,6 @@ metafile = true
 [[files]]
 file = "mods/rei.pw.toml"
 hash = "48f2b92cfa53cf05268d977c6cae642549e97c5f460571f0f2718675706a7166"
-metafile = true
-
-[[files]]
-file = "mods/saros-road-blocks.pw.toml"
-hash = "829960739b3e6b55bbc4672b921e89d789e9ee62742f4950f5a948587cd7c0d5"
 metafile = true
 
 [[files]]

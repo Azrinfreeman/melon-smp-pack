@@ -68,8 +68,8 @@ hash = "243a6237a954d35af746fe1fcec183721e7c54e5a0146977d8e7f99b95919078"
 metafile = true
 
 [[files]]
-file = "mods/computerpc-1.1.0+positional-audio.4.jar"
-hash = "184c503eb78498b49ca356f3108e0af5e1f07ba0bba990163cb2bee2a2a4c2a6"
+file = "mods/computerpc-1.1.0+positional-audio.5.jar"
+hash = "be3822520e6f483f43ed37b6cd17fcbab2c23b42bcb310c2cfe8e3bca9974f7a"
 
 [[files]]
 file = "mods/controlling.pw.toml"

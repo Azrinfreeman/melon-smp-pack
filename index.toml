@@ -267,3 +267,8 @@ hash = "3680814f232ec7b09138d187ee3526781e7d0515268835b03d3b1c8d46316e60"
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.11.2_26.1+.zip"
 hash = "8df24af99d185e49612b16f8f7a5bfc637997728a8e9746d3349b1a44f901e05"
+
+[[files]]
+file = "servers.dat"
+hash = "65a6dc96e5d9dc4fcf5d8ce9376fa143ab54e01f17e1eb4a0f47d707127308b8"
+preserve = true

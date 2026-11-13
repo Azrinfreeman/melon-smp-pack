@@ -5,6 +5,14 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "README.md"
+hash = "a338d8495b1b38e088d33ecfa36c22e31047cf05c1a46924b5ba4d01d0c9d8cf"
+
+[[files]]
+file = "docs/VALIDATION.md"
+hash = "a97bc0624bc7f9c9040ba716ca39513c08cc210895d6e4581b52932a6d41d797"
+
+[[files]]
 file = "index.html"
 hash = "ca09418999f3abcdd69c953d485a0de918f4cec627cbdc664216a43404653f98"
 

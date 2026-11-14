@@ -17,20 +17,44 @@ file = "index.html"
 hash = "ca09418999f3abcdd69c953d485a0de918f4cec627cbdc664216a43404653f98"
 
 [[files]]
+file = "mods/Chunky-Fabric-1.5.66.jar"
+hash = "987ade46bebe3ae4191db74dc51bc9af62308c58f6fec06c85a14b23ee551012"
+
+[[files]]
+file = "mods/Clumps-fabric-26.2-26.2.1.jar"
+hash = "dc9544190abfb65a3c9ddc5dad1523c9dfc5a732344f528d908b950894398e8c"
+
+[[files]]
+file = "mods/ExplorersCompass-26.2-2.5.1-fabric.jar"
+hash = "17bd0478290f3c38853b105029aa61fa3094338234b34f08b516331e73115f74"
+
+[[files]]
 file = "mods/ForgeConfigAPIPort-v26.2.1-mc26.2.x-Fabric.jar"
 hash = "1b4b17fc4150481447201152604688c74726d6631c9a626dd21f2c5e2b3df1ac"
+
+[[files]]
+file = "mods/InventoryProfilesNext-fabric-26.2-2.3.8.jar"
+hash = "142616bee5efefb89d1d6908d1c31aecff2da7f055da918573005ed84f027afb"
+
+[[files]]
+file = "mods/MouseTweaks-fabric-mc26.2-2.31.jar"
+hash = "4592eff38a2e7af3487688e888a637a8cbd4767b46662df94d993a889102effe"
+
+[[files]]
+file = "mods/NaturesCompass-26.2-2.5.1-fabric.jar"
+hash = "f7cdaffdbd2904f5e59d53b1f3631193b6f800e1e78722612c0de1eed8821965"
 
 [[files]]
 file = "mods/PlayerAnimationLibMerged-1.2.9+mc.26.2.jar"
 hash = "9e04c6d063d9585f24677956e5e9535c2686fcc3e6963967feff18fc8c05d419"
 
 [[files]]
-file = "mods/RoughlyEnoughItems-26.2.820.jar"
-hash = "9ba9d2a31531759549924064f33d3d45af342e7246f877efb8cee9f75f6ddaa9"
+file = "mods/PresenceFootsteps-1.13.3+26.2.jar"
+hash = "f1f7e37ffc5a56cf7cc9833d8c6b48680340554d72498160df021c6fc354af13"
 
 [[files]]
-file = "mods/SkinsRestorer-Mod-NeoForge-15.12.5.jar"
-hash = "a2c8865af5d2696fdd9793bd0afcda70fdda25428709b24434d7e6c7ab23d288"
+file = "mods/RoughlyEnoughItems-26.2.820.jar"
+hash = "9ba9d2a31531759549924064f33d3d45af342e7246f877efb8cee9f75f6ddaa9"
 
 [[files]]
 file = "mods/Terralith_26.2_v2.6.4.jar"
@@ -49,16 +73,56 @@ file = "mods/bettercombat-fabric-3.2.2+26.2.jar"
 hash = "cce827992f517b181bc25c4f6c35e2c75818d29fcdbea90c3838704364b04639"
 
 [[files]]
+file = "mods/carryme-fabric-26.2.jar"
+hash = "b63b6f9230c2cdc1c0c4f5ffcbe2b39ddc07dfb8369840ec5fb5cbf9ce3874e3"
+
+[[files]]
+file = "mods/carryon-fabric-26.2-2.11.2.jar"
+hash = "28e486fd70d5f5813294cf598c51b9f3466490155d1b8b18febcc948c150d8be"
+
+[[files]]
+file = "mods/carryonextend-architectury-fabric-26.2-1.5.1.jar"
+hash = "45a5f697f4e19075d61421d6c9dab4852823ad345815df2773387de5a048a830"
+
+[[files]]
 file = "mods/cloth-config-26.2.155 (1).jar"
 hash = "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349"
+
+[[files]]
+file = "mods/collective-26.2.0-8.67.jar"
+hash = "c459f319cd67b1c512f1f2216190516dcf2da678f6df96f54ef58f230e937e18"
+
+[[files]]
+file = "mods/comforts-fabric-16.0.0+26.2.jar"
+hash = "4d49ef94f4fc110c40521b7107e1c74f52439f0c820b8b097790a7d716998bc8"
 
 [[files]]
 file = "mods/fabric-api-0.161.0+26.2.jar"
 hash = "e5b858ceb13290c274e31cb888ff5a1a40cb91067e7ffab0b5b775aec51e216a"
 
 [[files]]
+file = "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar"
+hash = "fbdbf5286ab9d65fedb49e6e01c15e338ae303eb7b9d8c7423d0a9bcfe526ef9"
+
+[[files]]
+file = "mods/falling-tree-datapack-v1.0.jar"
+hash = "37fb3698f90f535c124e80fa7908d5ae64d3c444875d872e7ae52b514223e0b9"
+
+[[files]]
+file = "mods/ferritecore-9.0.0-fabric.jar"
+hash = "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22"
+
+[[files]]
+file = "mods/jamlib-fabric-2.3.2+26.2.x.jar"
+hash = "cdc0d627dbf08295e5da0e06f3b644f89cdf822f813d8e87590f28dbaabaea99"
+
+[[files]]
 file = "mods/jei-26.2-fabric-30.42.0.236.jar"
 hash = "8510fdb58d2eeffb2ff61ba5659ed9d52139426dea9594822032cd4eb997c3d9"
+
+[[files]]
+file = "mods/libIPN-fabric-26.2-6.9.0.jar"
+hash = "5297e5a028843103fb89a77ca8bfb27aeeb792e1e987b5b2a64ab57c2aa6a9f2"
 
 [[files]]
 file = "mods/lithium-fabric-0.25.3+mc26.2.jar"
@@ -81,6 +145,10 @@ file = "mods/open-parties-and-claims-fabric-26.2-0.33.0.jar"
 hash = "acd32a6a60b0221dc7b87da371cd20bf794013057f0d98454d005dd2f918afec"
 
 [[files]]
+file = "mods/polymorph_plus-fabric-1.5.0+26.2.0.jar"
+hash = "f507c721872764827d70d65407131de2585b01d9740146715725bc70bee2ce17"
+
+[[files]]
 file = "mods/servercore-fabric-1.5.19+26.2.jar"
 hash = "4f7c9fb3b35b364d8f6500d04f0d5481656f617a83bc69742b47f39adff59666"
 
@@ -93,12 +161,36 @@ file = "mods/skinrestorer-2.11.1+26.1-fabric.jar"
 hash = "3a3425cf105f6c42b17781a929bc4d87ab6a60ea552faba07c5b073175fe7433"
 
 [[files]]
+file = "mods/sound-physics-remastered-fabric-1.5.1+26.2.jar"
+hash = "5bf577901123044337070fee36c1731c86e2fc12923bbb6a1c4b49c3423adcd9"
+
+[[files]]
+file = "mods/spark-1.10.187-fabric.jar"
+hash = "3fc00663caa542b1e78333730609b4eb2568326628e3666a3938ad58cbc9acc6"
+
+[[files]]
+file = "mods/stackrefill-26.2.0-6.2.jar"
+hash = "f1bd64442cc4ce1a00e90b6006bf99a5e069136cd418536cdf3bbe3263afc903"
+
+[[files]]
+file = "mods/trashslot-fabric-26.2-26.2.0.3.jar"
+hash = "0b73489bbb94373578e8453e08a0ee12f83212a418688e10f6b7fcd7777de82a"
+
+[[files]]
 file = "mods/voicechat-fabric-2.6.22+26.2.jar"
 hash = "1b6a8c6c41d6d7edaa10543ac623a70b0c60f22f34567969b6999c345aa277b2"
 
 [[files]]
 file = "mods/waystones-fabric-26.2-26.2.0.13.jar"
 hash = "d6cb9d9f2f96bc7e4aaee1bf0868d5b9091e86667b03e04422d27a2eb575eff0"
+
+[[files]]
+file = "mods/xaerominimap-fabric-26.2-26.6.2.jar"
+hash = "ca40787f59fd0a8f04c17d97b0c89b0b100642f9954b0876ad070ea9051fb05c"
+
+[[files]]
+file = "mods/xaeroworldmap-fabric-26.2-1.47.2.jar"
+hash = "e2d352426f8cea6887205a68e4d23a27da55e4cfb0e98125c7d3c57dc66543fa"
 
 [[files]]
 file = "resourcepacks/FreshAnimations_v1.11.2_26.1+.zip"

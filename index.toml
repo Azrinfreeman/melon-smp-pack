@@ -17,14 +17,6 @@ file = "index.html"
 hash = "ca09418999f3abcdd69c953d485a0de918f4cec627cbdc664216a43404653f98"
 
 [[files]]
-file = "mods/Chunky-Fabric-1.5.66.jar"
-hash = "987ade46bebe3ae4191db74dc51bc9af62308c58f6fec06c85a14b23ee551012"
-
-[[files]]
-file = "mods/Clumps-fabric-26.2-26.2.1.jar"
-hash = "dc9544190abfb65a3c9ddc5dad1523c9dfc5a732344f528d908b950894398e8c"
-
-[[files]]
 file = "mods/ExplorersCompass-26.2-2.5.1-fabric.jar"
 hash = "17bd0478290f3c38853b105029aa61fa3094338234b34f08b516331e73115f74"
 
@@ -55,10 +47,6 @@ hash = "f1f7e37ffc5a56cf7cc9833d8c6b48680340554d72498160df021c6fc354af13"
 [[files]]
 file = "mods/RoughlyEnoughItems-26.2.820.jar"
 hash = "9ba9d2a31531759549924064f33d3d45af342e7246f877efb8cee9f75f6ddaa9"
-
-[[files]]
-file = "mods/Terralith_26.2_v2.6.4.jar"
-hash = "d867c6f348e869c19e8a5979e9dd2c46ed058c1edb47090f6863c32cce484917"
 
 [[files]]
 file = "mods/architectury-fabric-21.1.12.jar"
@@ -105,10 +93,6 @@ file = "mods/fabric-language-kotlin-1.14.2+kotlin.2.4.21.jar"
 hash = "fbdbf5286ab9d65fedb49e6e01c15e338ae303eb7b9d8c7423d0a9bcfe526ef9"
 
 [[files]]
-file = "mods/falling-tree-datapack-v1.0.jar"
-hash = "37fb3698f90f535c124e80fa7908d5ae64d3c444875d872e7ae52b514223e0b9"
-
-[[files]]
 file = "mods/ferritecore-9.0.0-fabric.jar"
 hash = "213966c72ed967acc7392beb28a866fba301ff56b9976c2e7801c2db7de6bf22"
 
@@ -125,10 +109,6 @@ file = "mods/libIPN-fabric-26.2-6.9.0.jar"
 hash = "5297e5a028843103fb89a77ca8bfb27aeeb792e1e987b5b2a64ab57c2aa6a9f2"
 
 [[files]]
-file = "mods/lithium-fabric-0.25.3+mc26.2.jar"
-hash = "fdde92e238e8075f89ad7f701f2a3d5854af88ba9a67657184a4407b104ac563"
-
-[[files]]
 file = "mods/lithostitched-1.8.0-fabric-26.2.jar"
 hash = "4d74a8ec2023657352ae051f1a6270bff474bf3cc46013100eff5f9ddbbdd024"
 
@@ -141,36 +121,16 @@ file = "mods/mezz_config-26.2-fabric-0.7.1.jar"
 hash = "c02e1fed1db0b1a7b1a703850938c13ee0bc4a84c9a9390f3921846518cdeb9f"
 
 [[files]]
-file = "mods/open-parties-and-claims-fabric-26.2-0.33.0.jar"
-hash = "acd32a6a60b0221dc7b87da371cd20bf794013057f0d98454d005dd2f918afec"
-
-[[files]]
 file = "mods/polymorph_plus-fabric-1.5.0+26.2.0.jar"
 hash = "f507c721872764827d70d65407131de2585b01d9740146715725bc70bee2ce17"
-
-[[files]]
-file = "mods/servercore-fabric-1.5.19+26.2.jar"
-hash = "4f7c9fb3b35b364d8f6500d04f0d5481656f617a83bc69742b47f39adff59666"
 
 [[files]]
 file = "mods/shogi-fabric-26.2-26.2.0.8.jar"
 hash = "e618027cad37927ba9841474cbe9c9dc54f626f1e15d208c3872bb93205d63b3"
 
 [[files]]
-file = "mods/skinrestorer-2.11.1+26.1-fabric.jar"
-hash = "3a3425cf105f6c42b17781a929bc4d87ab6a60ea552faba07c5b073175fe7433"
-
-[[files]]
 file = "mods/sound-physics-remastered-fabric-1.5.1+26.2.jar"
 hash = "5bf577901123044337070fee36c1731c86e2fc12923bbb6a1c4b49c3423adcd9"
-
-[[files]]
-file = "mods/spark-1.10.187-fabric.jar"
-hash = "3fc00663caa542b1e78333730609b4eb2568326628e3666a3938ad58cbc9acc6"
-
-[[files]]
-file = "mods/stackrefill-26.2.0-6.2.jar"
-hash = "f1bd64442cc4ce1a00e90b6006bf99a5e069136cd418536cdf3bbe3263afc903"
 
 [[files]]
 file = "mods/trashslot-fabric-26.2-26.2.0.3.jar"

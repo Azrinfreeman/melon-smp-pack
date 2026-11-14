@@ -89,10 +89,6 @@ file = "mods/ShoulderSurfing-NeoForge-26.2-5.3.1.jar"
 hash = "a166388e69da19fbbb6e003129e40be47f505dd7d5376566ba5bec9bfea0dccc"
 
 [[files]]
-file = "mods/SkinsRestorer-Mod-NeoForge-15.12.5.jar"
-hash = "a2c8865af5d2696fdd9793bd0afcda70fdda25428709b24434d7e6c7ab23d288"
-
-[[files]]
 file = "mods/TreadLightly-1.1.1+26.2-neoforge.jar"
 hash = "ed8f32fbf1ed98b5b27b938564280fb08c107a2a9fb8c989dcdf1a99cd87c6ff"
 

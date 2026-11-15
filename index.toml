@@ -193,6 +193,10 @@ file = "mods/ly-graves-3.0.1.jar"
 hash = "176812c5bcbc771a5180bc354804265ad405f91d037801f6a7c60f80ba5ecaa9"
 
 [[files]]
+file = "mods/mcpfabric-0.10.0+26.2.jar"
+hash = "3fe428a43ba1755a9e4279992e4ce8b039ca04040f35ec9ee3ddaf6ae3016c53"
+
+[[files]]
 file = "mods/mezz_config-26.2-fabric-0.7.1.jar"
 hash = "c02e1fed1db0b1a7b1a703850938c13ee0bc4a84c9a9390f3921846518cdeb9f"
 

@@ -9,5 +9,5 @@ hash-format = "sha256"
 hash = "df8a52997f95d8f2c5a712cf955af4fc690b87c5156247f8adef330c497924b8"
 
 [versions]
+fabric = "0.21.1"
 minecraft = "26.2"
-neoforge = "26.2.0.93"

@@ -189,12 +189,12 @@ file = "mods/lithostitched-1.8.0-fabric-26.2.jar"
 hash = "4d74a8ec2023657352ae051f1a6270bff474bf3cc46013100eff5f9ddbbdd024"
 
 [[files]]
-file = "mods/ly-graves-3.0.1.jar"
-hash = "176812c5bcbc771a5180bc354804265ad405f91d037801f6a7c60f80ba5ecaa9"
+file = "mods/lootr-fabric-26.2-1.24.41.124.jar"
+hash = "6669f8415aa4280eae0959d6e8cac0bb0dab02dbfd3efd6a153c1fad02e80a6b"
 
 [[files]]
-file = "mods/mcpfabric-0.10.0+26.2.jar"
-hash = "3fe428a43ba1755a9e4279992e4ce8b039ca04040f35ec9ee3ddaf6ae3016c53"
+file = "mods/ly-graves-3.0.1.jar"
+hash = "176812c5bcbc771a5180bc354804265ad405f91d037801f6a7c60f80ba5ecaa9"
 
 [[files]]
 file = "mods/mezz_config-26.2-fabric-0.7.1.jar"
@@ -247,6 +247,10 @@ hash = "befd8b17da3053f4cae94a69b205bb94fe512be28cbc566ea69cce059939ff68"
 [[files]]
 file = "mods/trashslot-fabric-26.2-26.2.0.3.jar"
 hash = "0b73489bbb94373578e8453e08a0ee12f83212a418688e10f6b7fcd7777de82a"
+
+[[files]]
+file = "mods/travelersbackpack-fabric-26.2-11.3.4.jar"
+hash = "dd9272c6b022198e08d8239f965b4d612a4f07b6df9b34ae6a6601f633d54553"
 
 [[files]]
 file = "mods/voicechat-fabric-2.6.22+26.2.jar"
